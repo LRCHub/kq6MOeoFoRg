@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "津軽海峡・冬景色",
+  "base_artist": "石川さゆり",
+  "createdAt": "2025-12-25T13:39:27.781698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色",
+      "artist": "石川さゆり",
+      "has_synced": true,
+      "path": "select/01_津軽海峡・冬景色_石川さゆり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色",
+      "artist": "Sayuri Ishikawa",
+      "has_synced": false,
+      "path": "select/02_津軽海峡・冬景色_Sayuri_Ishikawa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色",
+      "artist": "平和島静雄 (小野大輔)",
+      "has_synced": true,
+      "path": "select/03_津軽海峡・冬景色_平和島静雄_(小野大輔).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/04_津軽海峡・冬景色_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色 (新録音)",
+      "artist": "石川さゆり",
+      "has_synced": false,
+      "path": "select/05_津軽海峡・冬景色_(新録音)_石川さゆり.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色",
+      "artist": "石川さゆり",
+      "has_synced": false,
+      "path": "select/06_津軽海峡・冬景色_石川さゆり.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "津軽海峡·冬景色",
+      "artist": "Angela Aki",
+      "has_synced": true,
+      "path": "select/07_津軽海峡·冬景色_Angela_Aki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色",
+      "artist": "平和島静雄(小野大輔)",
+      "has_synced": true,
+      "path": "select/08_津軽海峡・冬景色_平和島静雄(小野大輔).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "津軽海峡・冬景色 (新録音)",
+      "artist": "Sayuri Ishikawa",
+      "has_synced": true,
+      "path": "select/09_津軽海峡・冬景色_(新録音)_Sayuri_Ishikawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "津軽海峡・冬景色",
+      "artist": "石川 さゆり",
+      "has_synced": false,
+      "path": "select/pl_01_津軽海峡・冬景色_石川_さゆり.txt"
+    }
+  ]
+}
